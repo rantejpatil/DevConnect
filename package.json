@@ -1,0 +1,19 @@
+{
+  "name": "devconnect",
+  "version": "1.0.0",
+  "description": "devconnect project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs.",
+    "javascript"
+  ],
+  "author": "Rantej Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
